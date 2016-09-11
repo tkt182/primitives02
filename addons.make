@@ -1,0 +1,7 @@
+ofxFft
+ofxOsc
+ofxPostGlitch
+ofxPostProcessing
+ofxRollingCam
+ofxSyphon
+ofxXmlSettings
